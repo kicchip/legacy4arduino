@@ -1,5 +1,6 @@
 # legacy4arduino
-<i>arduino libraries for porting from legacy microcontroller systems</i>
+<i>arduino libraries for porting from legacy microcontroller systems</i>  
+wiki here: https://github.com/kicchip/legacy4arduino/wiki
 <hr>
 <b>Part1:  Gives access to <i>word</i> / <i>2byte</i> variables.</b>
 
