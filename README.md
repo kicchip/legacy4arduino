@@ -1,13 +1,13 @@
 # legacy4arduino
-arduino libraries for porting from legacy microcontroller systems
-
+<i>arduino libraries for porting from legacy microcontroller systems</i>
+<hr>
 <b>Part1:  Gives access to <i>word</i> / <i>2byte</i> variables.</b>
 
 Example:
 
 let w0 = 0b1000000000000001  ; // b1 will be 10000000 and b0 will be 00000001 
 
-
+<hr>
 <b>Part2:  Gives access to ports via <i>pins</i> & <i>dirs</i> variables .</b> 
 
 Example:
